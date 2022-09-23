@@ -1,0 +1,54 @@
+.loading {
+  width: 100%;
+  height: 1000px;
+  background: #241F16;
+  .loadingContent {
+    padding-top: 412px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 32px;
+    font-family: ArturitoSlab-Bold, ArturitoSlab;
+    span{
+      letter-spacing: 3px;
+    }
+  }
+  .loadingIcon{
+    position: relative;
+    margin-right: 55px;
+    margin-bottom: 10px;
+  }
+  .loadingLeftIcon{
+    width: 100px;
+    height: 100px;
+    animation-name:rotate;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-duration: 4s; 
+  }
+  .loadingRightIcon{
+    width: 62px;
+    height: 62px;
+    position:absolute;
+    left: 89px;
+    top: 49px;
+    animation-name:rotateNext;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-duration: 4s; 
+  }
+}
+@keyframes rotate{
+  from{transform:rotate(0deg);}
+  to{transform:rotate(360deg);}
+}
+@keyframes rotateNext{
+  from{transform:rotate(360deg);}
+  to{transform:rotate(0deg);}
+}

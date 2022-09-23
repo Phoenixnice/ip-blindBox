@@ -1,0 +1,114 @@
+.boxPopupBg {
+  background: #000;
+  opacity: 0.7;
+  width: 1920px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 5;
+}
+.boxPopup {
+  position: absolute;
+  top: 119px;
+  left: 210px;
+  z-index: 6;
+  width: 1500px;
+  height: 843px;
+  background: #000000;
+  border-radius: 48px;
+  border: 2px solid #ac824d;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+}
+.box {
+  width: 568px;
+  height: 450px;
+  border: 4px solid #d2af83;
+  margin: 92px 466px 40px;
+}
+.boxIcon {
+  width: 133px;
+  height: 84px;
+  margin-top: -18px;
+  margin-left: 0;
+}
+.boxImg {
+  width: 525px;
+  height: 295px;
+  position: absolute;
+  top: 197px;
+  left: 491px;
+}
+.boxImgLoading {
+  width: 603px;
+  height: 339px;
+  position: absolute;
+  top: 215px;
+  left: 447px;
+}
+.loading {
+  text-align: center;
+  margin-top: 599px;
+  font-size: 40px;
+  font-weight: 600;
+  color: #ffdda0;
+  line-height: 56px;
+}
+.loadingImg {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 8px;
+  display: block;
+  animation-name: rotate;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-duration: 4s;
+}
+.boxEnd{
+  width: 700px;
+  height: 528px;
+  margin-top: 219px;
+  margin-left: 441px;
+}
+.button {
+  background: url("../../assets/images/button.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border: none;
+  width: 310px;
+  height: 106px;
+  margin: 25px auto 0;
+  font-family: ThemeFont;
+  color: #ffdda0;
+  -webkit-text-stroke: 0.5px #ffdda0;
+  line-height: 24px;
+  font-size: 24px;
+  cursor: pointer;
+  position: relative;
+  outline: none;
+  span {
+    width: 100%;
+    position: absolute;
+    top: 33px;
+    left: 0;
+  }
+  &:active {
+    transform: scale(0.98);
+  }
+}
+.gifPlay{
+  width: 100%;
+  height: 100%;
+  border-radius: 48px;
+}
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

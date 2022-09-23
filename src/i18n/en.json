@@ -1,0 +1,193 @@
+{
+  "header": {
+    "Home": "Home",
+    "Game": "Game",
+    "World Background": "World Backgroun",
+    "Mystery Box": "Mystery Box",
+    "Whitepaper": "Whitepaper",
+    "KMA": "KMA",
+    "language": "English",
+    "Subscribe Now": "Subscribe Now",
+    "About Spectrum": "About Spectrum",
+    "Spectrum Game Introduction": "Spectrum Game Introduction"
+  },
+  "footer": {
+    "World Background": "World Background",
+    "NFT":"NFT",
+    "Whitepaper":"Whitepaper",
+    "Twitter":"Twitter",
+    "Medium": "Medium",
+    "Buy NFT": "Buy NFT"
+  },
+  "BookingPopup":{
+    "Mailbox": "Mailbox",
+    "explain": "You will receive an email notification when the game launches. Register an account with this email address to collect a Pre-order Bonus Pack. Please follow us on Twitter and Facebook for more information.",
+    "Please": "Please Enter Your E-mail"
+  },
+  "Subscribe Now": "Subscribe Now",
+  "Learn More": "Learn More",
+  "Buy Now": "Buy Now",
+  "LAUNCHING": "LAUNCHING-IN-THE-FALL-2022",
+  "home": {
+    "booking": {
+      "On Sale": "On Sale",
+      "name": "Kabalos Military Academy",
+      "content": "Kabalos Military Academy is an casual IO game featuring 5v5 multiplayer and weapon customization.",
+      "Mansion": "Architecture",
+      "Manor":"City Scape",
+      "Forest": "Forest Memory"
+    },
+    "ip": {
+      "title": "SPECTRUM",
+      "subtitle": "A Next-Gen Metaverse IP with a Steampunk World",
+      "detailsTop": "In Spectrum, all your thoughts, actions and creations are saved and circulated in several games. Because we are dedicated to serve the players, all our games are free to play. In the future, we will have a full-fledged community where players can share and exchange their discoveries and encounters in game. Enjoy your new life in Spectrum.",
+      "detailsBottom": "In the world of Spectrum, magic and technology go hand in hand to form a Steampunk backdrop similar to our industrial era. There once was a great catastrophe, destroying almost the entire realm. Afterwards, monsters emerged and went rampant. However, the changes in landform brought forth a new opportunity: Magic Crystal, a new kind of energy substance, was discovered, which ended the industrial inefficiency. With these Crystals, as well as the excavation and reproduction of ancient relics, people without magical talents can wield the same power as mages, perhaps even more. This substance and the excavation of the relics are engraved to use even higher abilities at the same level as the wizard."
+    },
+    "roadmap": {
+      "title": "SPECTRUM GAME INTRODUCTION",
+      "subtitle": "",
+      "describe1-0": "Kabalos Military Academy",
+      "describe1-1": "Draw your Sword! March forward! Fight!",
+      "describe1-2": "This world needs heroes! Strive for improvement!",
+      "describe1-3": "Until we are victorious!",
+      "describe2-0": "Favaria Speedster Cup",
+      "describe2-1": "Can you hear it? It's the roar of the engine!",
+      "describe2-2": "Come on! Go try out the vehicle you've assembled yourself!",
+      "describe2-3": "Show them what you're made of!",
+      "describe3-0": "Isis's Crystal Ball",
+      "describe3-1": "The sunlight is so warm.",
+      "describe3-2": "And the seedling I see...",
+      "describe3-3": "is so refreshing...",
+      "describe3-4": " Good morning, care to plant a pot of datura?",
+      "describe4-0": "Lord",
+      "describe4-1": "War is always a required task of civilization. ",
+      "describe4-2": "The starlight glistening in the sky will eventually fade away.",
+      "describe4-3": "Will you, be the winner in the end?"
+    }
+  },
+  "game": {
+    "booking": {
+      "menu":"Subscribe Now",
+      "title": "SPECTRUM",
+      "content1": "An casual IO game featuring 5v5 multiplayer and weapon customization.",
+      "content2": "Customize your weapons at will.",
+      "content3": "Choose from a wide range of weapons and fighting styles.",
+      "content4": "Multiple modes and maps waiting to be explored."
+    },
+    "roadmap": {
+      "menu":"Road Map",
+      "title": "ROADMAP",
+      "desc1": "<span>Project start<br/>Pre-preparation</span>",
+      "desc2": "<span>Official Website<br/>Mystery Box Presale<br/>Demo Testing</span>",
+      "desc3": "<span>New Modes<br/>New Deputy<br/>Social system upgrade</span>",
+      "desc4": "Kabalos Military Academy Opening Event",
+      "desc5": "<span>New skills<br/>Higher grades Upper limit<br/>New weapon types</span>"
+    },
+    "weapon": {
+      "menu":"Weapons Introduction",
+      "title": "WEAPONS INTRODUCTION",
+      "weapons1": {
+        "name": "Sword",
+        "desc": "<span>The Sword, a swift and effective melee weapon. <br />In combat, Sword wielders are often able to get close to the target quickly, and neutralize them with a flurry of spectacular strikes, or eliminate them with strong and accurate killing blows.<br />Buffed by forging process and magic, the Sword wielder's physical abilities are enhanced in all aspects. In addition, the blade itself is sharp and durable, making it easy to use in both offense and defense.</span>"
+      },
+      "weapons2": {
+        "name": "Shield",
+        "desc": " <span>You can always trust a Shield wielder on the battlefield, they are the most reliable allies one can hope for.<br />Through elaborate design, forging process and magic, the Shield is incredibly sturdy, albeit heavy in weight. Shield wielders will become strong and reliable barriers that can block the enemy's attack and provide spaces of survival and combat for all allies.<br />They will withstand all the pain, and then, at the crucial moment, burst out with tremendous power and launch a series of counterattack.<br />Or... they will lead their allies into the enemy's line, and break through everything like unstoppable chariots.</span>"
+      },
+      "weapons3": {
+        "name": "Crystal Ball",
+        "desc": " <span>The Crystal, shining with brilliance, holds a deep and mysterious power. <br /> It is the most popular item among mages to assist in magic. Over the countless years of research and improvement, its capabilities and functions have continued to grow stronger.<br />The Crystal will greatly enhance the wielder's magical abilities, of course, the wielder itself needs to possess the most basic magical abilities first.<br />The Crystal is good at enhancing the range, distance, and effect of magic spells, albeit taking longer to cast. But who can say no to a dazzling, huge, super fireball?<br />Breathe, focus, and unleash your powerful magic! Just remember to be in a safe location.</span>"
+      },
+      "weapons4": {
+        "name": "Doll",
+        "desc": "<span>At first, I refused to consider the Doll as weaponry. I mean, it didn't look like one at all! <br />It seemed like a toy, belonging to a little girl, which was what the mentor looked like. How can this thing be the paradigm of our school? <br />That is until I witnessed the scene of the teacher assessment. <br />The \"little girl\" mentor was exuding authority with that enormous power. <br />A whole world with an almost limitless source of magic... <br />Then all I had left was the regret of not being chosen.</span>"
+      },
+      "weapons5": {
+        "name": "Sniper Rifle",
+        "desc": "<span>Your enemies will be engulfed in fear. <br />For they do not know where you are, while you have them in your crosshair...and slowly pull the trigger. <br />A magical bullet is fired. One shot, one kill. <br />This is the Sniper Rifle.<br /> Snipers conceal themselves and wait for the moment to strike, while their enemies can never be at ease, for the reaper is always watching from afar. </span>"
+      },
+      "weapons6": {
+        "name": "Shotgun",
+        "desc": "<span> No one would want to face the muzzle of a shotgun at close range, and if there were, they'd be having a death wish.<br /> The Shotgun is developed after the Great Enlightenment, a firearm made under the exquisite combination of mechanical structure and magical items. It is extremely effective at close-range combat. The closer the target, the more damage it deals.<br /> To use the Shotgun well, you'll need various combat items, as well as an abundance of combat skill and experience-only in this way can you survive one assault after another, and then continue to fight. <br />Others often consider Shotgun wielders as insane.<br />But what is a wolf if it does not tear apart its prey in a frenzy?</span>"
+      }
+    },
+    "location": {
+      "menu":"How To Play",
+      "title": "HOW TO PLAY",
+      "location1": {
+        "name": "Practice Range",
+        "desc": "Players can use their own customized weapons and team up with friends to fight another team of players. How you win will vary depending on the mode. There are two modes in KMA 1.0: Team Deathmatch, Domination."
+      },
+      "location2": {
+        "name": "Attire Department",
+        "desc": "As cadets in Kabalos, players can obtain a myriad of cosmetics through various ways. Currently, you can change your outfits and accessories here. Customize your appearance, and become the fashion star of Kabalos."
+      },
+      "location3": {
+        "name": "Teaching Building",
+        "desc": "When leveled up, players will gain skill points. Currently, you can learn skills in the Teaching Building. More skills will be unlocked as you level up. Players can only equip two skills in a single match. Choose your skills, and become the strongest cadet."
+      },
+      "location4": {
+        "name": "Armament Department",
+        "desc": "The \"KMV\" and \"KTV\" certificates obtained in the Practice Range can be used here. The engineers will provide players with a certain number of components or outfits of different rarities according to the current excavation progress. Weapons are important if you want to become stronger. Aim for better components and unleash your potential."
+      },
+      "location5": {
+        "name": "Workshop",
+        "desc": "This is where players change their weapons, or modify and upgrade the weapons equipped. Careful maintenance leads to better performance. Remember to maintain and modify your weapons often."
+      }
+    },
+    "playAndEard":{
+      "menu":"Play&Earn",
+      "title": "PLAY&EARN"
+    },
+    "pieChart":{
+      "menu":"Token Allocation",
+      "title": "TOKEN ALLOCATION",
+      "seriesData1": "Guilds & Influencers",
+      "seriesData2": "Reserve Fund for Development",
+      "seriesData3": "Marketing & ESports",
+      "seriesData4": "Publishers & Partners",
+      "seriesData5": "Liquidity & Staking",
+      "seriesData6": "Play & Earn",
+      "seriesData7": "Seed Round",
+      "totalSupply": "Total supply"
+    }
+  },
+  "worldBackground":{
+    "CurrentlyReading": "Currently Reading",
+    "Close": "Close",
+    "book1": "《Froy Process Introduction》",
+    "book2": "《Cadet Handbook》"
+  },
+  "mystaryBox":{
+    "themeBox":{
+      "Quantity":"Quantity in Stock",
+      "Price": "Price",
+      "themeTitle": "Genesis",
+      "desc1": "KMA's first collection of Mystery Boxes for weapons will help you quickly gain an advantage in KMA's campus battles, while significantly increasing the proceeds you make in the game.A Mystery Box contains a weapon that can be used in KMA after it launches. The weapon's rarity ranges from SR to UR, and will be determined by the highest rarity of its components.",
+      "desc2": "Weapon Proceeds: Weapons can be disassembled. Their proceeds will be determined by the rarity and quantity of NFT components contained.",
+      "DropRate": "Drop Rate Sheet"
+    },
+    "synthesis":{
+      "cardTitle":"Heritage Chest Drop Rate",
+      "title": "The Genesis Case has an extensible design. Two of them can be combined into a Heritage Chest",
+      "desc": "The Heritage Chest has a significantly improved drop rate of UR and SSR. It is the best choice for players who want to obtain their favorite phased-out weapons and have higher proceeds bonus in the game…"
+    },
+    "weapons":{
+      "desc":" A Mystery Box will drop a weapon that consists of 19 components. Each of the component have independent rarity. The weapon's rarity is determined by the highest-rarity component inside. Weapons will support disassembly, which will be available along with the upcoming community feature. When the game launches, the disassembled components can be reassembled into weapons with other components."
+    },
+    "boxDetail":{
+      "title1":"The inspiration",
+      "desc1": "At a teacher's susgestion, the engineers of Works has made a case for weapons from the metal gun emplacement in The Castle.The design team named it-the Genesis Case. With its exquisite craftsmanship and distinctive design, the Genesis Case was much sought after by cadets and teachers as soon as it was available for purchase. But due to the scarcity of its material, the Genesis Case is generally used for collection and display.",
+      "title2":"The Value of Mystery Boxes",
+      "desc2": "Mystery Boxes have been meticulously designed to become one of the most brilliant collections on your NFT journey. What's more, if you are interested in playing any of The Spectrum Era's games, the content of Mystery Boxes will be incredibly beneficial to your gaming experience; the weapons produced by Mystery Boxes have been professionally designed and polished. At the same time, thanks to the extensive weapon assembly system, every NFT weapon will have unique components and appearances."
+    }
+  },
+  "news":{
+    "new1": {
+      "title": "KMA Genesis Mystery Box Presale"
+    },
+    "new2": {
+      "title": "Partnership Announcement"
+    }
+  }
+}
