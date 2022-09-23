@@ -10,7 +10,6 @@
     "@testing-library/user-event": "^13.5.0",
     "animate": "^1.0.0",
     "animate.css": "^3.7.2",
-    "axios": "^0.27.2",
     "babel-loader": "^8.0.5",
     "babel-plugin-add-module-exports": "^1.0.4",
     "babel-plugin-component": "^1.1.1",
