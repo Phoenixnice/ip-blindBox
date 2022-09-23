@@ -59,7 +59,7 @@ class BoxPopup extends React.Component {
             </>
           ) : (
             <div style={{textAlign: 'left'}}>
-            {!end ? <img src={require("../images/gif.gif")} className={styles.gifPlay} /> : null}
+            {!end ? <img src={'https://bs-offical-web.oss-cn-guangzhou.aliyuncs.com/gif.gif'} className={styles.gifPlay} /> : null}
             <img src={require("../images/box_end.png")} className={styles.boxEnd} />
             </div>
           )}
